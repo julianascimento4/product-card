@@ -18,7 +18,7 @@ Bora Codar é um conjuto de desafios exclusivos e gratuitos, promovido pela Rock
 <br>
 
 <p align="center">
-  <img alt="projeto DevLinks"(https://user-images.githubusercontent.com/87456011/214334691-43da1092-60c0-46ea-9774-fb410ad150d3.gif)" width="100%">
+  <img alt="projeto DevLinks" src="assets/preview.svg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -38,7 +38,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/community/file/1195050984449538256). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/community/file/1195050524500542670). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 ## :memo: Licença
 
